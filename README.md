@@ -6,7 +6,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ---
 
-## Flix Part 1
+## FLIX Part 1
 
 ### User Stories
 
@@ -22,3 +22,23 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 
 I encountered how to manage github properly. It turned out to be that I can not push all of my xcode file to the local repo so i had to manage that. Another conflict that occured as it occurs to every beginner is to get to know SWIFT
+
+
+## FLIX Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+### App Walkthrough GIF
+
+<img src="http://g.recordit.co/bIRrLCii3k.gif" width=500><br>
+
+### Notes
+
+I recieved few challenges:
+  (i) Creating a Cocoa Touch Class File, where I created a wrong subclass, thus unable to connect custom class 
+  (ii) Created a tab bar controller instead of navigation controller
+

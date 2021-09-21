@@ -37,7 +37,7 @@ I encountered how to manage github properly. It turned out to be that I can not 
 
 ### Notes
 
-I recieved few challenges:
-  (i) Creating a Cocoa Touch Class File, where I created a wrong subclass, thus unable to connect custom class 
+I recieved few challenges: <br>
+  (i) Creating a Cocoa Touch Class File, where I created a wrong subclass, thus unable to connect custom class <br>
   (ii) Created a tab bar controller instead of navigation controller
 

@@ -47,4 +47,5 @@ A 12-week immersive training focused on building iOS applications using Swift an
 
 > **Issued by:** CodePath · **Completed:** Mar 2025  
 
-[![Certificate](https://img.shields.io/badge/Certificate-View-blue?style=for-the-badge)](https://github.com/haseebjaved4652/Codepath-iOS-Development/blob/main/Certificate%20of%20Achievement.jpg) | [![Verified by CodePath](https://img.shields.io/badge/Verified_by-CodePath-brightgreen?style=for-the-badge)](https://www.codepath.org/)
+[![Certificate](https://img.shields.io/badge/Certificate-View-blue?style=for-the-badge)](https://github.com/haseebjaved4652/Codepath-iOS-Development/blob/main/Certificate%20of%20Achievement.jpg)
+[![Verified by CodePath](https://img.shields.io/badge/Verified_by-CodePath-brightgreen?style=for-the-badge)](https://www.codepath.org/)

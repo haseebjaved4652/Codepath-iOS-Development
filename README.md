@@ -1,4 +1,4 @@
-# <img src="https://github.com/haseebjaved4652/Codepath-Intermediate-Web-Development-Course-Web102/blob/main/codepath%20logo.png?raw=true" alt="CodePath Logo" height="40"/> iOS Development – CodePath
+# <img src="https://github.com/haseebjaved4652/Codepath-Intermediate-Web-Development-Course-Web102/blob/main/codepath%20logo.png?raw=true" alt="CodePath Logo" height="40"/> iOS Development – iOS University
 
 ### iOS Developer Trainee | Jan 2025 – Mar 2025  
 

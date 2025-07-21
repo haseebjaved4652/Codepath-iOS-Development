@@ -6,23 +6,23 @@
 
 ## 📱 Course Description
 
-A 12-week immersive training focused on building iOS applications using Swift and UIKit. Each project challenged us to implement real-world app features, refine user interfaces, and follow mobile design best practices.
+This repository contains my completed iOS development projects from CodePath’s Intermediate iOS Course. Each project demonstrates my progress in building professional mobile applications using Swift, UIKit, Parse, and RESTful APIs. The course included solo and group assignments covering networking, persistent storage, user interfaces, authentication, and real-world app development patterns. Scroll below to explore each app I built throughout the program.
 
 ---
 
 ## 🔍 Project Highlights
 
 - **FLIX**  
-  Created a movie browsing app using TMDB API to fetch and display film posters, details, and trailers with smooth scroll and pull-to-refresh.
+  Movie browsing app built using TMDB API. Lets users scroll through Now Playing films, view posters, and explore superhero movies in a grid layout.  
 
 - **Twitter Clone**  
-  Built a basic Twitter client with user login, tweet timeline, tweet composition, pull-to-refresh, and logout functionality.
+  Twitter-style app supporting user login, tweet timeline, tweet composition, favoriting, and retweeting with infinite scroll and pull-to-refresh.  
 
 - **Instagram Clone**  
-  Developed an Instagram-style photo sharing app supporting image capture, upload, post feed, and user profiles using Parse backend.
+  Social media photo-sharing app with Parse backend. Includes user authentication, camera functionality, image uploads with captions, and persistent user sessions.  
 
 - **Final Project – QC Navigator**  
-  Designed a campus navigation app to help students find departments, services, and study spots at Queens College with a friendly UI and interactive map.
+  A campus navigation tool for Queens College. Features interactive map, real-time location check-ins, search/filter, and facility info — built as a group capstone.  
 
 ---
 
@@ -45,7 +45,7 @@ A 12-week immersive training focused on building iOS applications using Swift an
 
 <img src="https://github.com/haseebjaved4652/Codepath-iOS-Development/blob/main/Certificate%20of%20Achievement.jpg?raw=true" alt="Certificate" width="500"/>
 
-> **Issued by:** CodePath · **Completed:** Mar 2025  
+> **Issued by:** CodePath · **Completed:** Dec 2021  
 
 [![Certificate](https://img.shields.io/badge/Certificate-View-blue?style=for-the-badge)](https://github.com/haseebjaved4652/Codepath-iOS-Development/blob/main/Certificate%20of%20Achievement.jpg)
 [![Verified by CodePath](https://img.shields.io/badge/Verified_by-CodePath-brightgreen?style=for-the-badge)](https://www.codepath.org/)

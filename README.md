@@ -1,6 +1,6 @@
 # <img src="https://github.com/haseebjaved4652/Codepath-Intermediate-Web-Development-Course-Web102/blob/main/codepath%20logo.png?raw=true" alt="CodePath Logo" height="40"/> iOS Development – iOS University
 
-### iOS Developer Trainee | Sep 2021 – Nov 2021  
+### iOS Developer Trainee | Sep 2021 – Dec 2021  
 
 ---
 
@@ -45,7 +45,7 @@ This repository contains my completed iOS development projects from CodePath’s
 
 <img src="https://github.com/haseebjaved4652/Codepath-iOS-Development/blob/main/Certificate%20of%20Achievement.jpg?raw=true" alt="Certificate" width="500"/>
 
-> **Issued by:** CodePath · **Completed:** Nov 2021  
+> **Issued by:** CodePath · **Completed:** Dec 2021  
 
 [![Certificate](https://img.shields.io/badge/Certificate-View-blue?style=for-the-badge)](https://github.com/haseebjaved4652/Codepath-iOS-Development/blob/main/Certificate%20of%20Achievement.jpg)
 [![Verified by CodePath](https://img.shields.io/badge/Verified_by-CodePath-brightgreen?style=for-the-badge)](https://www.codepath.org/)
